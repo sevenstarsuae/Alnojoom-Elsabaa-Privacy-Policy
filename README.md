@@ -14,5 +14,8 @@ This permission is required to enable the app to connect to the internet for use
 #### PUSH NOTIFICATIONS:
 This permission is needed, so that we can send you notifications whenever an alert about the vehicle tracking device is raised. This can include exceeding speed limit and turning the engine on/off.
 <br />
+#### USER LOCATION:
+This permission is optional. It is not required at all to access any of the app's functionality. However, the user can allow the app to use the location if they prefer to see an indicator of their location on the app. It is completely optional otherwise.
+<br />
 ### Contact Information:
 If you have any questions or concerns about how we protect your privacy, please feel free to contact us at info@alnojoomelsabaa.com. We are committed to addressing any queries promptly and providing assistance to ensure your confidence in our application.
