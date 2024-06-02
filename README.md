@@ -16,6 +16,7 @@ This permission is needed, so that we can send you notifications whenever an ale
 <br />
 #### USER LOCATION:
 This permission is optional. It is not required at all to access any of the app's functionality. However, the user can allow the app to use the location if they prefer to see an indicator of their location on the live map page. It is completely optional otherwise.
+If the user does permit the app to use the location, the app only uses it to show the user their location on the live map and their data is not processes in any way and is not transmitted to any service (to our side, third party service or otherwwise). In simpler terms, the user's location data does not leave their device.
 <br />
 ### Contact Information:
 If you have any questions or concerns about how we protect your privacy, please feel free to contact us at info@alnojoomelsabaa.com. We are committed to addressing any queries promptly and providing assistance to ensure your confidence in our application.
